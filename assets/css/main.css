@@ -2631,4 +2631,20 @@ input, select, textarea {
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
+/* Estilos para el texto sobre la imagen de la marquesina */
+#top h2.alt, 
+#top h2.alt strong, 
+#top p {
+    color: #ffffff !important;
+    text-shadow: 0 4px 12px rgba(0,0,0,0.85) !important;
+    -webkit-font-smoothing: antialiased; /* Mejora la definición en algunos navegadores */
+}
+
+#top h2.alt {
+    font-weight: 700 !important;
+}
+
+#top p {
+    font-weight: 500 !important;
+}
 
