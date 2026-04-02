@@ -2244,6 +2244,7 @@ input, select, textarea {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
+				min-height: 100vh;
 			}
 
 			#main > section.one {
