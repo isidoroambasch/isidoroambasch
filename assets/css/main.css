@@ -2256,6 +2256,7 @@ input, select, textarea {
 
 			#main > section.two {
 				background-color: #f5fafa;
+				padding-top: 6em;
 			}
 
 			#main > section.three {
